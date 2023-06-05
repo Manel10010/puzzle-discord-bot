@@ -1,5 +1,4 @@
-# puzzle-discord-bot
- Discord Puzzle Bot for ACE Event
+# Discord Puzzle Bot for ACE Event
 
 Welcome to the repository for the Discord Puzzle Bot designed specifically for the ACE (Curricular Extension Activity)event. This bot serves as an integral part of the event, facilitating interactions between participants and providing an immersive puzzle-solving experience.
 
